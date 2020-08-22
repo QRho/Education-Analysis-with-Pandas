@@ -1,16 +1,16 @@
-### README for the Pandas Challege
+### Education Analysis 
 
-I learned a lot of shortcuts along the way ( not actual work shortcuts but shortkeys like 
+
 1.)control forward slash to comment out things 
 2.) Tab to bring up long name of perviously typed things you dont want to type again
+
 ### District Summary
-The only easy part of this homework
+The only easy part
 
 ### School Summary
-I solved it! 
+Summary complete
 But not before I made Individual cells to test every single part of it before I moved on to combine then into a df.
-Had come confusion over this initially as it is more robust than the one line df before it. 
-Please Ignore my working cells and commented out work, I like to save my work here because there was the Lambda function that mark taught me that might later come in handy. 
+Please Ignore my working cells and commented out work, I like to save my work here because there was the Lambda function that might later come in handy. 
 
 ### Top School Summary & Bottom School
 Used the ascending function and headed it.
