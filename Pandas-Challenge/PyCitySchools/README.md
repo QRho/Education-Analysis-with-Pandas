@@ -1,7 +1,7 @@
 ### Education Analysis 
 
 
-1.)control forward slash to comment out things 
+1.) Control forward slash to comment out things 
 2.) Tab to bring up long name of perviously typed things you dont want to type again
 
 ### District Summary
