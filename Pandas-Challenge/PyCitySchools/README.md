@@ -27,5 +27,3 @@ Here I did experiment some so again please disregaurd my commented out sections.
 ### Scores by Size
 The actual dataframe is printed out in the second cell becuase I needed to view the DF in order to pull the right names etc.. That first box is for reference.
 
-### Scores by Type
-
